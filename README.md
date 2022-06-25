@@ -17,3 +17,4 @@ Very simple cloth simulation using Verlet position based physics.
 
 Instructions can be found [here](https://github.com/johnBuffer/AntSimulator#compilation), steps are similar.
 # ClothSImulation
+# ClothSImulation ,you have to play around some values in src/main.cpp to find which suites u the best
